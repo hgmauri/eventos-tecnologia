@@ -5,6 +5,7 @@
 - Developer Week: https://www.developerweek.com
 - ERP Summit: https://www.erpsummit.com.br
 - Gramado Summit: https://www.gramadosummit.com
+- Innovation Pay: https://vindi.com.br/innovationpay
 - IT Forum Expo: http://itforumexpo.com.br
 - MVP Conf: https://mvpconf.com.br
 - Rio Innovation Week: https://rioinnovationweek.com.br
