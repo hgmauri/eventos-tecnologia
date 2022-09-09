@@ -1,4 +1,4 @@
-# eventos-tecnologia
+# Principais eventos de tecnologia no Brasil
 
 | Evento                         | Local    | Link                             |
 | -------------------------------| --------------|----------------------------------|
