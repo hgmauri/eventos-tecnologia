@@ -20,4 +20,3 @@
 | TDC                            | SP/RS/SC      | https://thedevconf.com                                       |
 | VSSUMMIT                       | SP            | https://vssummit.com.br                                      |
 | VTEX Day                       | SP            | https://vtexday.vtex.com                                     |
-
